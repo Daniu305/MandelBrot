@@ -115,7 +115,7 @@ def plotMandelBrot(initial_xlim=(-2, 1), initial_ylim=(-1, 1)):
 
 plotMandelBrot()
 
-print('4hi')
+print('4')
 
 print('well')
 
